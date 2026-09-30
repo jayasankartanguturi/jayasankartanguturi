@@ -280,40 +280,84 @@ improving features and learning through collaboration.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-```text
-Data Structures & Algorithms     ████████████████░░░░
-Java & OOP                       ██████████████░░░░░░
-React + TypeScript               █████████████████░░░
-Backend Development              ██████████████░░░░░░
-AI / ML                          ████████████░░░░░░░░
-System Design                    █████████░░░░░░░░░░░
-Open Source                      ███████████████░░░░░
-
-🎯  Goals
-🚀 Secure a software engineering internship
-💻 Strengthen DSA and problem-solving skills
-🌐 Make meaningful open-source contributions
-🏗️ Build production-quality applications
-🤖 Explore practical AI/ML applications
-🏆 Participate in more hackathons
-📚 Continuously improve software engineering skills
-💭 Developer Philosophy
 <div align="center">
-THINK → BUILD → BREAK → LEARN → IMPROVE
-<br>
 
-"First, solve the problem. Then, write the code."
+| 📚 Skill | Progress |
+|---|---|
+| 🧠 Data Structures & Algorithms | ████████████████░░░░ |
+| ☕ Java & OOP | ██████████████░░░░░░ |
+| ⚛️ React + TypeScript | █████████████████░░░ |
+| 🟢 Backend Development | ██████████████░░░░░░ |
+| 🤖 AI / ML | ████████████░░░░░░░░ |
+| 🏗️ System Design | █████████░░░░░░░░░░░ |
+| 🌐 Open Source | ███████████████░░░░░ |
 
 </div>
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/jayasankartanguturi"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/jayasankar19/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:jayasankartanguturi@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://tv-explorer-orpin.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio%20Project-TV%20Explorer-00C853?style=for-the-badge&logo=vercel&logoColor=white"> </a>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Secure a software engineering internship
+- 💻 Strengthen DSA and problem-solving skills
+- 🌐 Make meaningful open-source contributions
+- 🏗️ Build production-quality applications
+- 🤖 Explore practical AI/ML applications
+- 🏆 Participate in more hackathons
+- 📚 Continuously improve software engineering skills
+
+---
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+### THINK → BUILD → BREAK → LEARN → IMPROVE
+
+<br>
+
+> **"First, solve the problem. Then, write the code."**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/jayasankartanguturi">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/jayasankar19/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:jayasankartanguturi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://tv-explorer-orpin.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Project-TV%20Explorer-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=jayasankartanguturi&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge"> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer">
-⭐ Thanks for visiting my profile!
-Jayasankar Tanguturi
-</div> ```
+<img src="https://komarev.com/ghpvc/?username=jayasankartanguturi&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer">
+
+### ⭐ Thanks for visiting my profile!
+
+**Jayasankar Tanguturi**
+
+</div>
