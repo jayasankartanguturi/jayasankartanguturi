@@ -298,7 +298,7 @@ improving features and learning through collaboration.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
 - 🚀 Secure a software engineering internship
 - 💻 Strengthen DSA and problem-solving skills
